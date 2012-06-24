@@ -1,0 +1,45 @@
+
+</textarea></form>
+<!-- paste your PGN above and make sure you dont specify an external source with SetPgnUrl() -->
+
+<table width="100%" cellpadding="5" cellspacing="2" border="0">
+<tr>
+
+<td valign="top">
+
+<div id="GameBoard"></div>
+<p></p>
+<div id="GameButtons"></div>
+<p></p>
+<div id="GameSelector"></div>
+</center>
+
+</td>
+
+<td>&nbsp;</td>
+<td valign="top">
+<b><span id="GameWhite"></span>&nbsp;-&nbsp;<span id="GameBlack"></span>&nbsp;&nbsp;<span id="GameResult"></span></b>
+<div id="GameEvent"></div>
+<div id="GameRound"></div>
+<div id="GameSite"></div>
+<div id="GameDate"></div>
+<hr />
+<div id="GameText"></div>
+
+</td>
+
+
+</tr>
+
+<tr><td colspan="3"><font size="1">
+PGN Chess Viewer for Mac OS X &copy; Timothy Ha<br/> 
+Powered by PGN4Web &copy; Paolo Casaschi
+</font>
+</td></tr>
+</table>
+
+</body>
+
+</html>
+
+
