@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'PGNChessViewer' target in the 'PGNChessViewer' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
